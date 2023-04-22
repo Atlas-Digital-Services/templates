@@ -1,4 +1,4 @@
-import negotiateConnectionWithClientOffer from './src/negotiateConnectionWithClientOffer.js';
+import negotiateConnectionWithClientOffer from 'https://raw.githubusercontent.com/Atlas-Digital-Services/templates/main/stream/webrtc/src/negotiateConnectionWithClientOffer.js';
 /**
  * Example implementation of a client that uses WHIP to broadcast video over WebRTC
  *
